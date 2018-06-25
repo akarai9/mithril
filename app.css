@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    background: url('./images/bookbg.jpg');
+    /*background-color:blanchedalmond*/
+}
+.nav{
+    background-color: burlywood;
+    height: 5em;
+}
+.nav a{
+    margin: 0em 3em 5em 8em;
+}
+.login{
+    /*background: url('./images/bgimage.jpg');*/
+    border:2px solid black;
+    margin: 10% auto;
+    float: none;
+    width: 25%;
+}
+.password-label{
+    margin-top:10%; 
+}

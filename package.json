@@ -1,0 +1,9 @@
+{
+    "name": "my-project",
+    "scripts": {
+        "start": "webpack app.js -d --watch"
+    },
+    "dependencies": {
+        "mithril": "1.1.6"
+    }
+}
